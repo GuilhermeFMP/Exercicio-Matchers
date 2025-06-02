@@ -1,0 +1,16 @@
+{
+  "name": "exercicios-jest",
+  "version": "1.0.0",
+  "description": "Exercícios para aprender Matchers e cobertura de código com Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "type": "commonjs"
+}
